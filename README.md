@@ -4,5 +4,5 @@ Esse repositório tem o propósito de armazenar e explicar a resolução de cada
 
 Componentes do Grupo:
 
-Mateus da Cruz Espostes (NUSP )
+Mateus da Cruz Espostes (NUSP 13862650)
 Guilherme Fernandes da Costa (NUSP 14677300)
