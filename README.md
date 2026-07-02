@@ -6,3 +6,5 @@ Componentes do Grupo:
 
 Mateus da Cruz Espostes (NUSP 13862650)
 Guilherme Fernandes da Costa (NUSP 14677300)
+
+Inicialmente o EP foi desenvolvido em Python e depois convertido em um arquivo Jupyter Notebook
